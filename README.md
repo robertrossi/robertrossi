@@ -33,10 +33,9 @@ Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, OpenCV
 ML supervisionado e não supervisionado, NLP, OCR, LLMs, Redes Neurais, Séries Temporais, Regressão, Classificação, Clusterização  
 
 **Visualização de Dados:**  
-Power BI, Tableau, Dash, Matplotlib, Seaborn  
+Matplotlib, Seaborn, SASvisual studio 
 
-**Data Engineering / Pipelines:**  
-ETL, transformação de dados, pipelines para análise e dashboards  
+
 
 ---
 
