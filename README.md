@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Robert Rossi Silva de Mesquita
+# Robert Rossi Silva de Mesquita
 
 🏢  **Cientista de Dados**  
 
-💼 +3 anos desenvolvendo soluções de **Machine Learning (NLP, OCR, LLMs)** para clientes como **CAIXA**, **SEPOL/RJ**, **DETRAN/RJ** e **SEDU/ES**  
+💼 +4 anos desenvolvendo soluções de **Machine Learning (NLP, OCR, LLMs)** para clientes como **CAIXA**, **SEPOL/RJ**, **DETRAN/RJ** e **SEDU/ES**  
 
 🎓 Doutor em **Tecnologia e Utilização de Produtos Florestais (UnB)**, bolsista CNPq, com ampla vivência em projetos de alto impacto.  
 
@@ -12,6 +12,15 @@
 
 - **Tese de Doutorado:** *Comportamento de madeiras tropicais submetidas ao intemperismo artificial e natural*  
 - **Artigo Científico:** *Colorimetria e espectroscopia no infravermelho médio em madeira de Curupixá frente ao intemperismo artificial* (Ciência Florestal)  
+
+---
+
+
+## 🎓 Formação
+
+- Pós-graduação em Ciência de Dados – IESB (2023–2024) :contentReference[oaicite:0]{index=0}  
+- Doutorado em Ciências Florestais – UnB (2017–2023) :contentReference[oaicite:1]{index=1}  
+- Mestrado em Ciências Florestais – UnB (2014–2016) :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -42,7 +51,7 @@ Matplotlib, Seaborn, SASvisual studio
 ## 🌍 Contato
 
 
-- 🌐 LinkedIn: [Robert Rossi](https://www.linkedin.com/in/robert-rossi-silva-de-mesquita-02766215b/)  
+- 🌐 LinkedIn: [Robert Rossi](https://www.linkedin.com/in/robert-rossi-mesquita)  
 - 🌐 Salesforce Trailblazer: [Perfil](https://www.salesforce.com/trailblazer/pbbo2q4tytk2ifqgcx)
 - 🌐 Lattes: [Perfil](http://lattes.cnpq.br/5607784279468939) 
 
