@@ -18,9 +18,9 @@
 
 ## 🎓 Formação
 
-- Pós-graduação em Ciência de Dados – IESB (2023–2024) :contentReference[oaicite:0]{index=0}  
-- Doutorado em Ciências Florestais – UnB (2017–2023) :contentReference[oaicite:1]{index=1}  
-- Mestrado em Ciências Florestais – UnB (2014–2016) :contentReference[oaicite:2]{index=2}
+- Pós-graduação em Ciência de Dados – IESB (2023–2024) 
+- Doutorado em Ciências Florestais – UnB (2017–2023)  
+- Mestrado em Ciências Florestais – UnB (2014–2016) 
 
 ---
 
